@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PerformanceMetrics
+comment1.params=horsepower\ weight\ topSpeed
+comment1.target=PerformanceMetrics(int,\ double,\ int)
+comment2.params=
+comment2.target=void\ calcAccelerationTime()
+comment3.params=
+comment3.target=void\ calcBrakingDistance()
+comment4.params=
+comment4.target=double\ getAccelerationTime()
+comment5.params=
+comment5.target=double\ getBrakingDistance()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

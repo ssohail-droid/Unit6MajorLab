@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Machine
+comment1.params=machineName\ topSpeed\ engineType
+comment1.target=Machine(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
